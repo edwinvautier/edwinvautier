@@ -2,9 +2,13 @@
 
 ---
 
+<div align = "center">
+  
 [![edwinvautier's github stats](https://github-readme-stats.vercel.app/api?username=edwinvautier&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinvautier&layout=compact&theme=radical&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
