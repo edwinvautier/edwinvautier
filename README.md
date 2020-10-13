@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/edwinvautier/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
-
+</br>
 <a href="https://gitlab.com/edwinvautier/">
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" >
 </a>
