@@ -28,6 +28,3 @@
 </a>
 
 </h2>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=edwinvautier.edwinvautier)
