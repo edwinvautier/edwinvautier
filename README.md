@@ -1,7 +1,7 @@
 # Hello <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
 </h1>
 
-My name is Edwin, a 23yo developer student **@HETIC**.
+My name is Edwin, a 22yo developer student **@HETIC**.
 I'm interested by electronics, architecture and development.
 Currently learning **golang**.
 
