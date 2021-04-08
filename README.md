@@ -1,5 +1,9 @@
-# Hi! <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm edwinvautier 
+# Hello <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
 </h1>
+
+My name is Edwin, a 23yo developer student **@HETIC**.
+I'm interested by electronics, architecture and development.
+Currently learning **golang**.
 
 <hr>
 
@@ -13,8 +17,8 @@
 
 </div>
 
-<h2 align = "center">
-  ✉️ Find me on
+<h2>
+  ✉️ Contact me
   
   </br>
   </br>
@@ -26,5 +30,4 @@
 <a href="https://gitlab.com/edwinvautier/">
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" >
 </a>
-
 </h2>
