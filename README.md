@@ -16,14 +16,3 @@ Currently learning **golang**.
 <hr>
 
 </div>
-
-<h2>
-  Contact me
-
-  </br>
-  </br>
-
-<a href="https://www.linkedin.com/in/edwinvautier/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-</a>
-</h2>
