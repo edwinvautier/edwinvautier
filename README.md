@@ -13,6 +13,9 @@ Currently learning **golang**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinvautier&layout=compact&theme=radical&hide=javascript,html,css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <hr>
 
 </div>
