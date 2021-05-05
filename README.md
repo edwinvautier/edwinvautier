@@ -15,7 +15,11 @@ Currently learning **golang**.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go           57 mins         ████████████████░░░░░░░░░   63.78 % 
+Bash         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+JavaScript   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Docker       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Vue.js       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 <!--END_SECTION:waka-->
 
