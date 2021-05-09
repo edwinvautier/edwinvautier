@@ -13,16 +13,4 @@ Currently learning **golang**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinvautier&layout=compact&theme=radical&hide=javascript,html,css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-Vue.js       3 hrs 30 mins   █████████████▓░░░░░░░░░░░   55.00 % 
-Go           1 hr 42 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.82 % 
-JavaScript   39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-```
-<!--END_SECTION:waka-->
-
-<hr>
-
 </div>
