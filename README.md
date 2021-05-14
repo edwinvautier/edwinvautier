@@ -1,9 +1,17 @@
-# Hello <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
+# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
 </h1>
 
-My name is Edwin, a 22yo developer student **@HETIC**.
-I'm interested by electronics, architecture and development.
-Currently learning **golang**.
+My name is Edwin, 
+a 22 years old developer based in Paris 🌆
+
+second year master degree at **HETIC**.
+
+I'm interested in lots of things such as :
+- electronics
+- 3D printing
+- front and back-end development
+
+📚 Currently learning golang.
 
 <hr>
 
