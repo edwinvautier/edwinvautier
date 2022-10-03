@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a 23 years old fullstack developer based in France 🇫🇷
+I'm a 24 years old fullstack developer based in France 🇫🇷
 
 ## 🔗 Links
 
