@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a 24 years old back-end developer based in France 🇫🇷
+I'm a back-end developer based in France 🇫🇷
 
 ## 🔗 Links
 
