@@ -13,5 +13,5 @@ I'm a back-end developer based in France 🇫🇷
 
 ## 🛠 Skills
 
-PHP, Golang, PostgreSQL, Python, Vue.js...
+PHP, Golang, Node, Vue.js, Angular...
 
